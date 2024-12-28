@@ -70,3 +70,9 @@
 [submodule "zxc7528064/-WebShell-"]
 	path = zxc7528064/-WebShell-
 	url = https://github.com/zxc7528064/-WebShell-
+[submodule "xl7dev/WebShell"]
+	path = xl7dev/WebShell
+	url = https://github.com/xl7dev/WebShell
+[submodule "xl7dev/WebShell/Other/Webshell"]
+    path = xl7dev/WebShell/Other/Webshell
+    url = https://github.com/xl7dev/WebShell
